@@ -14,7 +14,7 @@ This Power BI dashboard comprehensively analyses the Global Superstore dataset, 
 
 ## Data Dictionary
 
-### 1. Orders Table
+### Orders Table
 - **Row ID:** Unique identifier for each row.
 - **Order ID:** Unique identifier for each order.
 - **Order Date:** Date when the order was placed.
