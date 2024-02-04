@@ -4,13 +4,23 @@
 
 This Power BI dashboard comprehensively analyses the Global Superstore dataset, offering insights into sales, profits, and other key metrics. It is designed to help stakeholders make informed decisions based on the data from the Global Superstore.
 
-## Features
+## Questions Explored
 
-- **Sales Analysis:** Visualizations and insights on sales performance over time.
-- **Profit Margin:** Track profit margins and identify trends.
-- **Geographical Distribution:** Explore sales and profits across different regions.
-- **Product Category Breakdown:** Analyze sales and profits by product category.
-- **Customer Segmentation:** Understand customer segments and their contribution to sales.
+1. **Main KPIs:**
+   - What are the main Key Performance Indicators (KPIs) such as Sales, Profit, and Delivery Lead Time?
+
+2. **Quarterly Sales Improvement:**
+   - How are store sales improving quarterly?
+
+3. **Top Performing Regions:**
+   - What are the top-performing regions in terms of sales and profits?
+
+4. **Preferred Delivery Methods:**
+   - Which delivery methods do customers prefer, and how are we doing in terms of prioritizing them?
+
+5. **Product Performance:**
+   - What are our best and worst-performing goods based on sales and profit?
+
 
 ## Data Dictionary
 
